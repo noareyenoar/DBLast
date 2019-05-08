@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">test3</string>
+    <string name="petspeciesdropdown">Choose PET Species</string>
+    <string-array name="speciesarray">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Bird</item>
+        <item>Rabbit</item>
+        <item>Rodent</item>
+        <item>Cow</item>
+        <item>Elephant</item>
+        <item>Horse</item>
+    </string-array>
+</resources>
